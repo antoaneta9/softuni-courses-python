@@ -1,0 +1,14 @@
+timestamp,level,message,user,ip
+2024-11-17 08:15:33,INFO,User logged in successfully,alex,192.168.1.10
+2024-11-17 08:17:01,ERROR,Failed to load configuration file,maria_98,10.0.0.5
+2024-11-17 08:18:22,WARNING,High memory usage detected,john,172.16.0.2
+2024-11-17 08:19:55,DEBUG,Cache refreshed successfully,root,127.0.0.1
+2024-11-17 08:20:13,INFO,File uploaded: report_final.pdf,dev01,192.168.1.22
+2024-11-17 08:21:41,ERROR,Authentication failed for user,tester,192.168.1.50
+2024-11-17 08:23:37,DEBUG,Temporary directory cleaned,alex,127.0.0.1
+2024-11-17 08:24:10,INFO,Payment processed successfully,maria_98,192.168.1.15
+2024-11-17 08:25:56,INFO,Scheduled backup completed,john,10.0.0.12
+2024-11-17 08:26:33,DEBUG,Session terminated,dev01,192.168.1.18
+2024-11-17 08:27:45,WARNING,CPU usage exceeded threshold,root,10.0.0.8
+2024-11-17 08:28:12,ERROR,Unable to send email notification,tester,172.16.0.5
+2024-11-17 08:29:55,INFO,User logout successful,systemUser,192.168.1.9
